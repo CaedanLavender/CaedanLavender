@@ -8,7 +8,7 @@ Right now, I'm studying with [MissionReady HQ](https://www.missionreadyhq.com) i
 
 ***
 ## I'm currently working with:
-- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/nodedotjs.svg" />NodeJS
+- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/nodedotjs.svg" />][#]NodeJS
 - <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/react.svg" />ReactJS
 - <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/heroku.svg" />Heroku
 
@@ -30,4 +30,5 @@ Right now, I'm studying with [MissionReady HQ](https://www.missionreadyhq.com) i
 [GitHub]: https://www.github.com/CaedanLavender
 [LinkedIn]: https://www.linkedin.com/in/caedan/
 [Dev.to]: https://www.dev.to/caedan
+[#]: #
 
