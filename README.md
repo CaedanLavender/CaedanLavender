@@ -15,6 +15,7 @@ Right now, I'm studying with [MissionReady HQ](https://www.missionreadyhq.com) i
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/devdotto.svg" />][Dev.to]
 <br />
+
 ## I'm currently working with:
 - [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/nodedotjs.svg" />][#]NodeJS
 - [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/react.svg" />][#]ReactJS
