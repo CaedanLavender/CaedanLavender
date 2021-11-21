@@ -3,6 +3,13 @@
 # Student / developer in the making.
 Right now, I'm studying with [MissionReady HQ](https://www.missionreadyhq.com) in New Zealand.
 
+## Connect with me:
+
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/github.svg"/>][GitHub]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/devdotto.svg" />][Dev.to]
+<br />
+
 ![Caedan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaedanLavender)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaedanLavender&layout=compact)
 
@@ -22,11 +29,7 @@ Right now, I'm studying with [MissionReady HQ](https://www.missionreadyhq.com) i
 - [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/electron.svg" />][#]Electron
 <br />
 
-## Connect with me:
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/github.svg"/>][GitHub]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/devdotto.svg" />][Dev.to]
 
 [GitHub]: https://www.github.com/CaedanLavender
 [LinkedIn]: https://www.linkedin.com/in/caedan/
