@@ -1,7 +1,16 @@
 ### Ahoy there, I'm Caedan
 
 # Student / developer in the making.
-I'm currently studying with [MissionReady HQ](www.missionreadyhq.com) in New Zealand.
+Right now, I'm studying with [MissionReady HQ](www.missionreadyhq.com) in New Zealand.
+
+## I'm currently working with:
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/nodedotjs.svg" /> NodeJS <br />
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/react.svg" > ReactJS
+
+<br />
+<br />
+
+## Future ambitions
 
 <br />
 <br />
