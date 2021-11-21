@@ -27,7 +27,7 @@ Right now, I'm studying with [MissionReady HQ](https://www.missionreadyhq.com) i
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/devdotto.svg" />][Dev.to]
 
-[GitHub]: "https://www.github.com/CaedanLavender"
-[LinkedIn]: "https://www.linkedin.com/in/caedan/"
-[Dev.to]: "https://www.dev.to/caedan"
+[GitHub]: https://www.github.com/CaedanLavender
+[LinkedIn]: https://www.linkedin.com/in/caedan/
+[Dev.to]: https://www.dev.to/caedan
 
