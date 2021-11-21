@@ -8,11 +8,9 @@ Right now, I'm studying with [MissionReady HQ](www.missionreadyhq.com) in New Ze
 - <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/react.svg" />ReactJS
 - <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/heroku.svg" />Heroku
 <br />
-<br />
 
 ## I'm currently learning:
 - <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/docker.svg" />Docker
-<br />
 <br />
 
 ## Future ambitions
