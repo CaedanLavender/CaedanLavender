@@ -9,16 +9,16 @@ Right now, I'm studying with [MissionReady HQ](https://www.missionreadyhq.com) i
 ***
 ## I'm currently working with:
 - [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/nodedotjs.svg" />][#]NodeJS
-- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/react.svg" />ReactJS
-- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/heroku.svg" />Heroku
+- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/react.svg" />][#]ReactJS
+- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/heroku.svg" />][#]Heroku
 
 ## I'm learning:
-- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/docker.svg" />Docker
+- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/docker.svg" />][#]Docker
 
 ## Future ambitions
-- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/svelte.svg" />Svelte 
-- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/swift.svg" />Swift (iOS and macOS apps)
-- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/electron.svg" />Electron
+- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/svelte.svg" />][#]Svelte 
+- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/swift.svg" />][#]Swift (iOS and macOS apps)
+- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/electron.svg" />][#]Electron
 <br />
 
 ## Connect with me:
