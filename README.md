@@ -1,6 +1,6 @@
 ### Ahoy there, I'm Caedan
 
-# Student / developer in the making.
+# Student / developer in the making
 Right now, I'm studying with [MissionReady HQ](https://www.missionreadyhq.com) in New Zealand.
 
 
