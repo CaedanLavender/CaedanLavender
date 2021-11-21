@@ -19,6 +19,7 @@ Right now, I'm studying with [MissionReady HQ](https://www.missionreadyhq.com) i
 - [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/nodedotjs.svg" />][#]NodeJS
 - [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/react.svg" />][#]ReactJS
 - [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/heroku.svg" />][#]Heroku
+
 ## I'm learning:
 - [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/docker.svg" />][#]Docker
 
