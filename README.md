@@ -1,5 +1,4 @@
 ### Ahoy there, I'm Caedan
-<br />
 
 # Student / developer in the making.
 I'm currently studying with [MissionReady HQ](www.missionreadyhq.com) in New Zealand.
