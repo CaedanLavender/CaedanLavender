@@ -4,7 +4,7 @@
 Right now, I'm studying with [MissionReady HQ](https://www.missionreadyhq.com) in New Zealand.
 
 ## Connect with me
-[<img height="50px" src='./assets/github.svg' />][GitHub]
+[<img height="50px" margin="100px" src='./assets/github.svg' />][GitHub]
    [<img height="50px" src='./assets/linkedin.svg' />][LinkedIn]
    [<img height="50px" src='./assets/devdotto.svg' />][Dev.to]
 <br/>
