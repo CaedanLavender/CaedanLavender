@@ -5,8 +5,10 @@ Right now, I'm studying with [MissionReady HQ](https://www.missionreadyhq.com) i
 
 ## Connect with me
 [<img height="50px" src='./assets/github.svg' />][GitHub]
-[&emsp;&emsp;<img height="50px" src='./assets/linkedin.svg' />][LinkedIn]
-[&emsp;&emsp;<img height="50px" src='./assets/devdotto.svg' />][Dev.to]
+   
+[<img height="50px" src='./assets/linkedin.svg' />][LinkedIn]
+   
+[<img height="50px" src='./assets/devdotto.svg' />][Dev.to]
 <br/>
 
 ***
