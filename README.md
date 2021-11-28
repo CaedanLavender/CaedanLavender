@@ -24,7 +24,7 @@ Right now, I'm studying with [MissionReady HQ](https://www.missionreadyhq.com) i
 
 ***
 
-[<img height="30px" src='./assets/iterm2.svg' />]()
+[<img height="30px" src='./assets/iterm2.svg' />](#)
 [&emsp;&emsp;<img src='./assets/vivaldi.svg' />&emsp;&emsp;<img height="30px" src='./assets/postman.svg' />&emsp;&emsp;<img height="30px" src='./assets/obsidian.svg' />][#]
 
 
