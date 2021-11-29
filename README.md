@@ -4,7 +4,7 @@
 Right now, I'm studying with [MissionReady HQ](https://www.missionreadyhq.com) in New Zealand.
 Primarily, I'm using **ReactJS** and **ExpressJS** to build fullstack web apps, but of late I'm dabbling in **Docker** and **Kubernetes**.
 
-Most of my projects here on GitHub are assignments -- you'll find more details 
+Most of my projects here on GitHub are assignments — you'll find more details in each readme.
 
 Some of my long term goals include migrating to TypeScript, iOS and macOS development, and trying other JS frameworks like Svelte and Remix.
 
